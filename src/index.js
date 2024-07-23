@@ -53,7 +53,7 @@ async function handleRequest(request) {
  //       "content-type": "text/html"
  //     }
  //   });
- }
+ // }
 
  
   const isDockerHub = upstream == dockerHub;
